@@ -1,10 +1,4 @@
----
-title: A Demo on Hyperspectral Linear Spectral Mixture Analysis with MATLAB
-
----
-
-
-# A Demo on Hyperspectral Linear Spectral Mixture Analysis with MATLAB
+# A Demo of Hyperspectral Linear Spectral Mixture Analysis with MATLAB
 
 This demo notebook shows an example of Linear Spectral Mixture Analysis (LSMA) using MATLAB. We’ll cover: 1) Loading the hyperspectral data; 2) Estimating the number of endmembers using Noise\-Whitened Harsanyi–Farrand–Chang (NWHFC); 3) Extracting endmembers using the Automatic Target Generation Process (ATGP); and 4) Performing linear unmixing using Non\-negative Constrained Least Squares (NCLS) and Fully Constrained Least Squares (FCLS)
 
